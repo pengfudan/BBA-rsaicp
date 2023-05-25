@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="676f4973-6d05-43c6-a3ce-81c969d1df8d" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2QI195hMxska33Y97EVxyKXNWcW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bba_test" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Fudan\学硕\6.研三下\天智杯半决赛\BBA-rsaicp\bba_test" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\11830\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="676f4973-6d05-43c6-a3ce-81c969d1df8d" name="默认更改列表" comment="" />
+      <created>1685026126523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685026126523</updated>
+      <workItem from="1685026129611" duration="414000" />
+      <workItem from="1685026773579" duration="1977000" />
+      <workItem from="1685028778943" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="276" width="318" height="334" key="Github.ShareDialog" timestamp="1685026524995">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="609" y="276" width="318" height="334" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1685026524995" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1685029692133">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1685029692133" />
+  </component>
+</project>
